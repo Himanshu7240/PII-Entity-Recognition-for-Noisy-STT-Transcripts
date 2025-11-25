@@ -1,0 +1,3 @@
+out/*.safetensors 
+out/*.bin 
+out/*.pt 
